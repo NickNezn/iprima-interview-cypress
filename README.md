@@ -5,6 +5,7 @@ Fork this repository and complete task.
 ## Task
 
 Create an end-to-end test for user profile creation.
+Output should be repository with setup guide in README.
 
 ## Criteria
 
