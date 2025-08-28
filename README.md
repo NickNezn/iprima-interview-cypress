@@ -45,7 +45,9 @@ The test covers logging in, creating a profile (Běžný or Dětský), verifying
    npm install
 
 2. **Configure credentials**
-    Create a cypress.env.json file in the project root: {
+    Create a cypress.env.json file in the project root: 
+    
+{
   "E2E_EMAIL": "your-email@example.com", you can use mine that i used for testing - neznikn@gmail.com and password Test123456
   "E2E_PASSWORD": "your-password",
   "PROFILE_TYPE": "bezny"
