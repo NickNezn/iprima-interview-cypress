@@ -8,5 +8,10 @@
     "@types/node": "^20.19.9",
     "cypress": "^13.15.0",
     "typescript": "^5.9.2"
+  },
+  "scripts": {
+    "cy:run:bezny": "cypress run --env PROFILE_TYPE=bezny",
+    "cy:run:detsky": "cypress run --env PROFILE_TYPE=detsky"
   }
+  
 }
